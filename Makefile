@@ -15,7 +15,14 @@ else
 	APP_VERSION	:=	${VERSION_MAJOR}.${VERSION_MINOR}.${VERSION_MICRO}
 endif
 
-APP_TITLE		:=	EdiZon
+# EdiZon      #
+# 4564695A6F6E202020202020
+# 游戏作弊
+# E6B8B8E6888FE4BD9CE5BC8A
+
+
+
+APP_TITLE		:=	EdiZon      
 APP_AUTHOR		:=	WerWolv & proferabg & ppkantorski
 APP_VERSION		:=	v1.0.10
 
